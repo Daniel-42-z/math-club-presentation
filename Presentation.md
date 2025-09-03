@@ -83,3 +83,32 @@ style: |
 和我们一起把"难题"变成"乐趣"吧！
 
 ![bg right:40% height:90%](images/QR-code.png)
+
+---
+<!--_header: ""-->
+
+# IB 数学学习内容
+
+## 🧮 平和数学社
+
+---
+<!--header: "IB 数学学习内容"-->
+
+## (Pre-)IB 高一数学学习内容
+
+- Sets
+- Exponentiation and logarithm
+- Quadratic functions
+- Series
+- Trigonometry and trigonometric functions
+- Basic statistics
+
+---
+
+## 数学 IA 例子: 电影院排档期
+
+- 去年高一下学期的第三次月考 + IA
+- 给了 20 多部电影的数据, 用统计方法分析电影票房与时间, 类型, 评分等的关系
+- 给学校影院排假期中的放映时间表, 最大化利润
+
+![bg right:40% height:95%](images/IA-paper-excerpt.png)
